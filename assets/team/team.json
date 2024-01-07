@@ -1,0 +1,37 @@
+[
+	{
+		"id": "edan1",
+		"name": "Edan Kwan",
+		"role": "Cofounder &<br> Creative Director"
+	},
+	{
+		"id": "ffi1",
+		"name": "Ffion Morgan",
+		"role": "Cofounder &<br> Head of Operation"
+	},
+	{
+		"id": "marcog1",
+		"name": "Marco Grimaldi",
+		"role": "Design Director"
+	},
+	{
+		"id": "patrick1",
+		"name": "Patrick Heintzmann",
+		"role": "Creative Developer"
+	},
+	{
+		"id": "marcolp1",
+		"name": "Marco Ludovico Perego",
+		"role": "Creative Developer"
+	},
+	{
+		"id": "aj1",
+		"name": "Ajay NS",
+		"role": "Creative Developer"
+	},
+	{
+		"id": "anatole1",
+		"name": "Anatole Touvron",
+		"role": "Creative Developer"
+	}
+]
